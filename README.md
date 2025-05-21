@@ -114,8 +114,10 @@ if(NUM_LOOPS>=10)    {
 ```
 
 ## OUTPUT
-$ ./sem.o 
+$ ./sem.o
+
 ![Screenshot 2025-05-21 233343](https://github.com/user-attachments/assets/1f1811a0-ba38-4b2a-bcdf-af375d4841a6)
+
 
 
 $ ipcs
